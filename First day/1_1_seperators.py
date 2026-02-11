@@ -1,0 +1,5 @@
+print("A", "B", "C", sep="/")
+print("Hello","World","Welcome", "to", "python", "basics","lecture", sep="-", end="Thanks")
+print("python")
+print("Hello","World","Welcome", "to", "python", "basics","lecture", sep="-", end="Thanks\n")
+print("Programming")
